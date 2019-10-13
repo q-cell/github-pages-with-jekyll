@@ -2,12 +2,8 @@ theme: minima
 title: 草上飞
 author: 草上飞过的乌鸦
 email: 午餐@126.com
-description: 
 
-  sdfsdfsdffffffffffffffffffffffffffffffffff
-dfgdfg
-# social links
 
 github_username:  q-cell
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts:false # set to false to remove excerpts on the homepage
